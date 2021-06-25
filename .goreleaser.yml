@@ -61,7 +61,7 @@ snapshot:
 
 release:
   github:
-    owner: kudobuilder
+    owner: takirala
     name: kuttl
   draft: false
   prerelease: auto
